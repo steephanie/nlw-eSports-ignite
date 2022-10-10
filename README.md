@@ -60,7 +60,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### 💻 Back End (servidor)
 ```bash
 # Clonando o repositório
-$ git clone <https://github.com/steephanie/nlw-eSports-ignite>
+$ git clone https://github.com/steephanie/nlw-eSports-ignite
 # Acesse a pasta do projeto no terminal
 $ cd nlw-eSports-ignite
 # Vá para a pasta server
